@@ -1,0 +1,1567 @@
+[{
+        "location": {
+            "latitude": -35.32,
+            "longitude": 149.008
+        },
+        "category": "Australian National University",
+        "name": "Space Science Precinct and the Advanced Instrumentation and Technology Centre (AITC)",
+        "details": "Partners in the AITC include EOS Space Systems, Lockheed Martin, NASA Ames Research Centre, Japan's National Institute of Information and Communications, the German Aerospace Centre, Optus, University of New South Wales, CSIRO and the Royal Melbourne Institute of Technology.\nOther partners in the precinct include: Space Environment Research Centre CRC, and the ANU Research School of Astronomy and Astrophysics.\n"
+    },
+    {
+        "location": {
+            "latitude": -35.273,
+            "longitude": 149.114
+        },
+        "category": "Australian National University",
+        "name": "National Agricultural and Environmental Sciences Precinct",
+        "details": "ANU and CSIRO are working with partners and collaborators to create the National Agriculture and Environmental Sciences Precinct.\nUnder CSIRO's ACT Consolidation Project, $196 million is being invested in the Black Mountain facility, which will provide a major platform for co-location of external collaborators."
+    },
+    {
+        "location": {
+            "latitude": -35.235,
+            "longitude": 149.088
+        },
+        "category": "University of Canberra (UC)",
+        "name": "Health Precinct",
+        "details": "The UC teaching hospital will cost $139 million. $15 million was also provided for a ‘Health Hub’ to facilitate collaborative activities. The Health Hub collaboration between UC and Ochre Health opened in 2014."
+    },
+    {
+        "location": {
+            "latitude": -35.238,
+            "longitude": 149.088
+        },
+        "category": "University of Canberra (UC)",
+        "name": "Research Institute for Sport and Exercise",
+        "details": "The institute brings together research and innovation staff from across UC.\nOther partners include: the Australian Institute of Sport, Australian Rugby, Rugby Football Union, Brumbies Rugby, Olympic Winter Institute, Australian Paralympic Committee, Canberra Raiders, and the ACT Academy of Sport.\n"
+    },
+    {
+        "location": {
+            "latitude": -35.287,
+            "longitude": 149.139
+        },
+        "category": "University of New South Wales (UNSW))",
+        "name": "Defence and Security Innovation Precinct",
+        "details": "The precinct is proposed to be located along Constitution Avenue in the centre of Canberra’s research and innovation corridor, linking science, education, technology, defence and other government agencies including the Australian Security Intelligence Organisation, Australian Signals Directorate, the Department of Veterans Affairs, and the Department of Home Affairs."
+    },
+    {
+        "location": {
+            "latitude": -35.278,
+            "longitude": 149.127
+        },
+        "category": "",
+        "name": "Canberra Innovation Network (CBRIN)",
+        "details": "CBRIN is an ACT Government initiative. Six education and research institutions are foundation members: ANU, UC, UNSW, Data61, Canberra Institute of Technology and CSIRO. Other partners include: King and Wood Mallesons, PricewaterhouseCoopers (PwC), Optus, Ricoh and Green Inspiration."
+    },
+    {
+        "location": {
+            "latitude": -35.274,
+            "longitude": 149.128
+        },
+        "category": "",
+        "name": "CBR Renewables Precinct and Renewables Innovation Hub",
+        "details": "Partners include: ACT Government, Australian Solar Council, Deposit Energy, Natura Homes, Real Sustainability, Trade-UP, Blue Manchu, Global Power Generation Australia, Neoen, CO2 Australia, Intelligent Energy Solutions, VTara Energy Group.\nThe precinct is located beside the ANU Acton campus."
+    },
+    {
+        "location": {
+            "latitude": -35.241,
+            "longitude": 149.149
+        },
+        "category": "",
+        "name": "Games Precinct",
+        "details": "The cluster is located around the Academy of Interactive Education (AIE) Watson campus. Plans to expand and enhance the cluster have been developed by AIE."
+    },
+    {
+        "location": {
+            "latitude": -35.058,
+            "longitude": 147.353
+        },
+        "category": "Charles Sturt University (CSU)",
+        "name": "AgriSciences Research and Business Park (AgriPark)",
+        "details": "Located on CSU's Wagga Wagga Campus, the AgriPark expands on CSU's long-held vision and commitment to support, facilitate and grow the agricultural sector. The AgriPark offers access to one of Australia's most productive agricultural regions, and world class researchers, producers, processors and markets.\nOrganisations located on campus include: AgriFutures Australia, AgriTech Incubator, Bridge Hub, FARMpay, NSW Department of Primary Industries, NSW Riverina Local Land Services; Graham Centre for Agricultural Innovation, Grains Research and Development Corporation, National Wine and Grape Industry Centre and Syngenta Seed Institute.\n"
+    },
+    {
+        "location": {
+            "latitude": -35.062,
+            "longitude": 147.355
+        },
+        "category": "Charles Sturt University (CSU)",
+        "name": "AgriTech Incubator",
+        "details": "The AgriTech Incubator is supporting the development of regional entrepreneurship, and a networked innovation ecosystem in the Riverina. Support from the NSW Department of Industry has been integral to developing the Incubator."
+    },
+    {
+        "location": {
+            "latitude": -33.419,
+            "longitude": 149.58
+        },
+        "category": "Charles Sturt University (CSU)",
+        "name": "CenWest Innovate",
+        "details": "CenWest Innovate is supporting the development of small-to-medium-sized enterprises (SMEs) and a networked innovation ecosystem in the Central West. The NSW Department of Industry has supported development of CenWest Innovate."
+    },
+    {
+        "location": {
+            "latitude": -36.038,
+            "longitude": 146.99
+        },
+        "category": "Charles Sturt University (CSU)",
+        "name": "Walan Mayinygu Indigenous Pop Up Hub",
+        "details": "Walan Mayinygu is supporting the development of Indigenous entrepreneurship across NSW.\nThe NSW Department of Industry and Indigenous Business Australia have supported the development of Walan Mayinygu.\n"
+    },
+    {
+        "location": {
+            "latitude": -33.779,
+            "longitude": 151.125
+        },
+        "category": "Macquarie University",
+        "name": "Macquarie Park Innovation District (MPID)",
+        "details": "MPID opened its purpose-built Macquarie University Incubator in August 2017, funded by a $7 million Macquarie University commitment and a $1 million New South Wales Government investment towards the development of a broader Macquarie University Business Innovation Centre.\nMPID has an active program of knowledge sharing, networking and problem-solving events with partners including: Abbott, AMP Capital, Australian Hearing Hub, City of Ryde Council, Cochlear, Johnson & Johnson, 3M, Fujitsu, Schneider Electric, Konica Minolta, National Australia Bank, NSW Government, Optus and Orix Australia."
+    },
+    {
+        "location": {
+            "latitude": -32.888,
+            "longitude": 151.699
+        },
+        "category": "University of Newcastle (UON)",
+        "name": "Newcastle Institute for Energy and Resources (NIER)",
+        "details": "NIER was founded with the assistance of a grant under the Australian Government's former Education Investment Fund, and is supported by the NSW Government.\nCollaboration partners include: Clean Coal Centre at Pusan National University of Korea, University of Science and Technology Liaoning, BHP Billiton, Glencore, University of Wollongong, University of New South Wales, China's Sinosteel, and NTPC Ltd India.\n"
+    },
+    {
+        "location": {
+            "latitude": -32.921,
+            "longitude": 151.692
+        },
+        "category": "University of Newcastle (UON)",
+        "name": "Hunter Medical Research Institute (HMRI)",
+        "details": "Established in 1998, HMRI is a partnership between the University of Newcastle and Hunter New England Health.\nHMRI provides leading researchers and specialists with state-of-the-art medical facilities to improve care for people with existing conditions and find new ways to prevent chronic disease."
+    },
+    {
+        "location": {
+            "latitude": -32.927,
+            "longitude": 151.774
+        },
+        "category": "University of Newcastle (UoN)",
+        "name": "Integrated Innovation Network (I2N)",
+        "details": "UoN has established an Integrated Innovation Network (I2N) to enable researchers and students to engage in creative, social and technological innovation and entrepreneurship and work with partners to create start-ups and new businesses at all of our campuses.\nI2N hubs are connected globally with leading incubators and accelerators in Canada, USA, Sweden and the UK, delivering best practise programmes in innovation from their partners."
+    },
+    {
+        "location": {
+            "latitude": -32.893,
+            "longitude": 151.703
+        },
+        "category": "University of Newcastle (UoN)",
+        "name": "Central Coast Food Innovation Region Initiative",
+        "details": "Participants include: University of Newcastle, Regional Development Australia (Central Coast), Industry Connect Central Coast, and food and beverages industry partners."
+    },
+    {
+        "location": {
+            "latitude": -33.917,
+            "longitude": 151.231
+        },
+        "category": "University of New South Wales (UNSW)",
+        "name": "Randwick Health and Education Super Precinct",
+        "details": "The precinct is a large precinct in NSW with over 13 000 staff and more than 59 000 students. The precinct is recognised as a key economic powerhouse in the Greater Sydney Commission plans and in the Sydney Metropolitan Strategy.\nOver $1 billion in infrastructure development will occur in the precinct in the next 3 years, including $720 million from the NSW Government. The UNSW Torch Innovation Precinct is also part of this broader precinct.\nMajor health partners include: UNSW, South Eastern Sydney Local Health District (Prince of Wales Hospital and Royal Hospital for Women), Sydney Children's Hospital and Prince of Wales Private Hospital."
+    },
+    {
+        "location": {
+            "latitude": -33.888,
+            "longitude": 151.185
+        },
+        "category": "The University of Sydney",
+        "name": "Camperdown Precinct",
+        "details": "Precinct partners include: University of Sydney and its industry partners with substantial campus presence (Microsoft, Rio Tinto, Qantas, GE, and others); Sydney Local Health District; Royal Prince Alfred Hospital; Sydney Health Partners; Cicada Innovations; and numerous multi disciplinary research centres such as the Charles Perkins Centre (complex health), the Brain and Mind Centre, the Sydney Policy Lab and the Sydney Nano Institute (including quantum engineering)."
+    },
+    {
+        "location": {
+            "latitude": -30.3253,
+            "longitude": 153.1029
+        },
+        "category": "Southern Cross University",
+        "name": "Coffs Harbour Innovation Hub",
+        "details": "The Innovation Hub is funded by the foundation partners: TAFE NSW, Coffs Harbour City Council and Southern Cross University."
+    },
+    {
+        "location": {
+            "latitude": -28.8179,
+            "longitude": 153.2974
+        },
+        "category": "Southern Cross University",
+        "name": "Southern Cross Enterprise Lab",
+        "details": "The lab was established in 2017 with funding from the NSW Government Boosting Business Innovation Program. \nPartners include: the Sydney School of Entrepreneurship, EnergyLab, CSIRO On Accelerator, NSW Business Chamber, Jobs for NSW, NSW Government and Regional Development Australia – Northern Rivers."
+    },
+    {
+        "location": {
+            "latitude": -33.882,
+            "longitude": 151.2
+        },
+        "category": "University of Technology Sydney",
+        "name": "Ultimo Creative Industries Precinct",
+        "details": "In Ultimo, the creative industries sector is strong and growing. Recent precinct mapping research undertaken by UTS shows that the precinct is surrounded by a rich and diverse range of creative industries ranging from start-ups to co working spaces and research incubators.\nOver 70 per cent of industry within a one kilometre radius of UTS are creative industries. Added to this, TAFE NSW Ultimo, with its acknowledged leadership in the VET space in Fashion and Design and approximately 8 000 students, are major contributors to the vitality of the precinct."
+    },
+    {
+        "location": {
+            "latitude": -33.889,
+            "longitude": 151.225
+        },
+        "category": "University of Technology Sydney (UTS)",
+        "name": "UTS Moore Park Precinct",
+        "details": "The precinct brings together elite athletes, a high performance training facility, sector-leading sports scientists and physiotherapists, UTS students and the community. The site integrates an academic precinct within world-class sporting facilities. The Australian Rugby Development Centre is also located at Moore Park, including specialist sporting facilities, in a building within the Sydney Cricket Grounds."
+    },
+    {
+        "location": {
+            "latitude": -33.613,
+            "longitude": 150.75
+        },
+        "category": "Western Sydney University",
+        "name": "Agri-Park",
+        "details": "Western Sydney University's 1 420 hectare Richmond campus hosts the Hawkesbury Institute for the Environment, a leading centre of excellence in agro-ecosystem function and environmental responses to climate change. \nGreening Australia, NSW Local Land Services, the Hort Innovation National Vegetable Protected Cropping Centre (NVPCC) and other industry partners, including Rural R&D corporations, are co-located on campus."
+    },
+    {
+        "location": {
+            "latitude": -34.403,
+            "longitude": 150.899
+        },
+        "category": "University of Wollongong",
+        "name": "Innovation Campus",
+        "details": "The Innovation Campus was established with seed funding from the NSW Government. It receives ongoing support from the Australian Government, NSW Government and Wollongong City Council.\nMajor tenants include: NEC Australia, Komatsu, South 32, Telecommunication Systems Inc, Information and Communication Technology Illawarra, Australian National Fabrication Facility, Commonwealth Bank, AMP, and COORDINARE, the South Eastern NSW Primary Health Network."
+    },
+    {
+        "location": {
+            "latitude": -32.246,
+            "longitude": 148.602
+        },
+        "category": "Charles Sturt University",
+        "name": "The Exchange, Dubbo",
+        "details": "Founded by Jullian Kilby of the Infrastructure Collaborative and in partnership with Charles Sturt University (Dubbo campus)."
+    },
+    {
+        "location": {
+            "latitude": -33.43,
+            "longitude": 149.565
+        },
+        "category": "Charles Sturt University",
+        "name": "Bathurst Innovation Precinct",
+        "details": "An emerging precinct centred around the Charles Sturt University Bathurst campus and includes 60 educational providers and strong community and business involvement."
+    },
+    {
+        "location": {
+            "latitude": -32.927,
+            "longitude": 151.779
+        },
+        "category": "University of Newcastle (UoN)",
+        "name": "Honeysuckle City Campus Development (Newcastle CBD)",
+        "details": "The CBD site includes University House, the Conservatorium, Northumberland House, the NeW Space building, and UON I2N Hub Hunter Street. The site also houses UoN's Faculty of Business and Law and the School of Creative Industries."
+    },
+    {
+        "location": {
+            "latitude": -32.261,
+            "longitude": 150.888
+        },
+        "category": "University of Newcastle (UoN)",
+        "name": "Hunter Region Innovation Precinct",
+        "details": "In partnership with Muswellbrook Shire Council, UoN has established UON Upper Hunter (incorporating Integrated Innovation Network Upper Hunter). The facility is located in the Hunter Region Innovation Precinct. "
+    },
+    {
+        "location": {
+            "latitude": -30.489,
+            "longitude": 151.639
+        },
+        "category": "University of New England",
+        "name": "Armidale Agritech Innovation Precinct",
+        "details": "An emerging precinct in agritech centred around the University of New England's strengths in environmental, crop science and technology and animal sciences. The SMART Farm Innovation Centre works closely with the national farming community to deliver innovative farming solutions."
+    },
+    {
+        "location": {
+            "latitude": -33.421,
+            "longitude": 151.34
+        },
+        "category": "University of Newcastle (UoN)",
+        "name": "Central Coast Medical School and Research Institute",
+        "details": "The precinct is a $72.5 million initiative in collaboration with the local Health District, University of Newcastle and the NSW Government, and the Australian Government."
+    },
+    {
+        "location": {
+            "latitude": -32.893,
+            "longitude": 151.702
+        },
+        "category": "University of Newcastle (UoN)",
+        "name": "STEMM Precinct",
+        "details": "Planning is currently underway for a precinct to consolidate current STEMM (science, technology, engineering, mathematics and medicine) based activity at UoN's Callaghan campus."
+    },
+    {
+        "location": {
+            "latitude": -33.917,
+            "longitude": 151.231
+        },
+        "category": "University of New South Wales (UNSW)",
+        "name": "UNSW Torch Innovation Precinct",
+        "details": "The UNSW Torch Innovation Precinct is the first to be established outside of China under the Chinese Ministry of Science and Technology's Torch Program.\nUNSW has secured $100 million for collaborative research projects from Chinese industry partners affiliated with the Torch Program."
+    },
+    {
+        "location": {
+            "latitude": -33.803,
+            "longitude": 150.987
+        },
+        "category": "The University of Sydney",
+        "name": "Knowledge Hub",
+        "details": "The University of Sydney is joining up a collection of spaces across the Camperdown Precinct dedicated to leading-edge collaboration between our researchers and students, and industry partners. "
+    },
+    {
+        "location": {
+            "latitude": -33.817,
+            "longitude": 151.007
+        },
+        "category": "Western Sydney University (WSU)",
+        "name": "Engineering Hub",
+        "details": "WSU is partnering with Charter Hall and UNSW to develop a new engineering focused hub in the Parramatta CBD. The hub will integrate WSU, UNSW and industry partners invited to co-locate at the site with a focus on engaged teaching, research, innovation and knowledge exchange opportunities. "
+    },
+    {
+        "location": {
+            "latitude": -33.766,
+            "longitude": 150.736
+        },
+        "category": "Western Sydney University (WSU)",
+        "name": "Penrith Knowledge Hub",
+        "details": "WSU is planning a major redevelopment of its Werrington campuses to cluster business and industry around education and knowledge infrastructure. \nTAFE NSW, Western Sydney Primary Health Network, Western Sydney Local Health District and Werrington Park Corporate Centre are located in the precinct.\n"
+    },
+    {
+        "location": {
+            "latitude": -33.783,
+            "longitude": 151.15
+        },
+        "category": "",
+        "name": "CSIRO - Lindfield Collaboration Hub (North Sydney)",
+        "details": "The Lindfield Collaboration Hub is space for start ups and small and medium sized enterprises to develop unique, high-tech products and devices. The hub is supported by the NSW Government and CSIRO. The hub works with local organisations such as the Northern Sydney Science Hub and North Sydney Innovation Network. It is home to 14 start-up companies, representatives from four universities and the medical device incubator Fledge Innovation Labs."
+    },
+    {
+        "location": {
+            "latitude": -33.895,
+            "longitude": 151.197
+        },
+        "category": "",
+        "name": "South Eveleigh (formerly Australian Technology Park)",
+        "details": "The Australian Technology Park was created in 1995 by the NSW Government, University of Technology, Sydney and University of New South Wales. Mirvac has been leading the site's redevelopment since 2016."
+    },
+    {
+        "location": {
+            "latitude": -32.925,
+            "longitude": 151.76
+        },
+        "category": "",
+        "name": "HunterNet",
+        "details": "HunterNet is a network of over 200 manufacturing, engineering and specialist services companies located in the Hunter and Central Coast Regions of NSW. HunterNet represents over 70 000 employees through its members."
+    },
+    {
+        "location": {
+            "latitude": -34.429,
+            "longitude": 150.895
+        },
+        "category": "",
+        "name": "i3net (Illawarra Innovative Industry Network)",
+        "details": "Partners include: Bluescope, Commonwealth Bank of Australia, Department of Industry, Innovation and Science, Illawarra Mercury, KPMG, TAFE NSW, University of Wollongong, NSW Ports, NSW Office of Regional Development, and Wollongong City Council."
+    },
+    {
+        "location": {
+            "latitude": -33.92,
+            "longitude": 150.929
+        },
+        "category": "",
+        "name": "Liverpool Innovation Precinct",
+        "details": "The NSW Government is investing $740 million to re develop the Liverpool Hospital. Western Sydney University, UNSW and South West Sydney Local Health District are existing partners in the Ingham Institute for Applied Medical Research, based at the precinct.\nWestern Sydney University opened a new campus onsite in 2018, home to Australia's largest nursing school. University of Wollongong also has a campus onsite."
+    },
+    {
+        "location": {
+            "latitude": -33.805,
+            "longitude": 150.989
+        },
+        "category": "",
+        "name": "Westmead Health Precinct",
+        "details": "Partners include: Westmead Hospital, the Children's Hospital at Westmead, Cumberland Hospital, Pathology West - Institute for Clinical Pathology and Medical Research, the University of Sydney, the Westmead Institute for Medical Research, Children's Medical Research Institute, Westmead Research Hub, Westmead Private Hospital, and Western Sydney University."
+    },
+    {
+        "location": {
+            "latitude": -34.048,
+            "longitude": 150.988
+        },
+        "category": "",
+        "name": "Australian Nuclear Science and Technology Organisation (Sutherland Shire)",
+        "details": "The Australian Nuclear Science and Technology Organisation (ANSTO) is establishing an innovation precinct at its main campus in Southern Sydney.\nThe precinct will have three major components: a Graduate Institute, a Technology Park and an Innovation Centre. It will co-locate researchers, STEM and medical graduates, high-tech industry and small and medium sized businesses around Australia's centre of nuclear capabilities and expertise. The precinct will draw on ANSTO's extensive national and international network. \nThe NSW Government has committed $12.5 million to support the precinct’s expansion. This funding will be used to develop initiatives such as a next generation nuclear medicine cluster and the Graduate Institute, including 25 new scholarships for PhD students."
+    },
+    {
+        "location": {
+            "latitude": -33.324,
+            "longitude": 149.082
+        },
+        "category": "",
+        "name": "The GATE (Global Ag-tech Ecosystem)",
+        "details": "Based at the NSW Department of Primary Industries Orange Agricultural Institute, the GATE is an emerging precinct to develop ag-tech ideas and fast-track adoption of agricultural R&D. "
+    },
+    {
+        "location": {
+            "latitude": -33.866,
+            "longitude": 151.206
+        },
+        "category": "",
+        "name": "Sydney Startup Hub",
+        "details": "Established by the NSW Government and launched in 2017 to support innovation, strengthen the start-up community, and grow new, sustainable, high-value jobs in NSW."
+    },
+    {
+        "location": {
+            "latitude": -32.81,
+            "longitude": 151.842
+        },
+        "category": "",
+        "name": "Williamtown Aerospace Centre",
+        "details": "Partners include: Newcastle City Council, Singleton Council, WAC Holdings Ltd, Hunter Land Pty Ltd, Mercure Hotel – Newcastle Airport, Pelican Airlines, Trade NSW, Douglas Partners, Drayton Construction and HunterNet.\nThe University of Newcastle's defence, security and aerospace research hub, Integrated Innovation Network Williamtown, is also in the centre.\n"
+    },
+    {
+        "location": {
+            "latitude": -33.866,
+            "longitude": 151.177
+        },
+        "category": "",
+        "name": "The Bays",
+        "details": "A proposed precinct that will adapt White Bay Power Station into a technology precinct and draw on the site's working heritage."
+    },
+    {
+        "location": {
+            "latitude": -33.866,
+            "longitude": 151.205
+        },
+        "category": "",
+        "name": "Sydney Innovation and Technology Precinct",
+        "details": "A taskforce, headed by Jobs for NSW chair David Thodey, has worked to design and develop a precinct that stretches from the Central Station area, where UTS is based, to the inner-city suburb of Eveleigh. \nThe taskforce included representatives from UTS, the University of Sydney, the Greater Sydney Commission, Sydney Business Chamber and from Australian start-ups, Atlassian, co-working space Fishburners and industry representative body Tech Sydney.\n"
+    },
+    {
+        "location": {
+            "latitude": -33.881,
+            "longitude": 150.745
+        },
+        "category": "",
+        "name": "Western Sydney Aerospace and Defence Industries Precinct",
+        "details": "The NSW Government is developing the precinct, adjacent to the Western Sydney Airport (WSA), to leverage links to global supply chains and access to new export partners and markets. "
+    },
+    {
+        "location": {
+            "latitude": -33.85,
+            "longitude": 150.717
+        },
+        "category": "",
+        "name": "Sydney Science Park",
+        "details": "The park, scheduled to open in 2021, will be a multi-billion dollar mixed use centre, bringing together industry, education, research and investment in close proximity to the Western Sydney Airport."
+    },
+    {
+        "location": {
+            "latitude": -12.37,
+            "longitude": 130.866
+        },
+        "category": "Charles Darwin University ",
+        "name": "Northern Australian Centre for Oil and Gas (NACOG)",
+        "details": "Partners include: Clean Energy Fuels Australia, Clough, Conoco Phillips, CRC for Greenhouse Gas Technologies, Eni, Energy Centre, Robert Gordon University (Aberdeen, Scotland), Inpex Corporation, Total, Northern Territory Government."
+    },
+    {
+        "location": {
+            "latitude": -12.463,
+            "longitude": 130.842
+        },
+        "category": "Charles Darwin University ",
+        "name": "Darwin Innovation Hub",
+        "details": "Partners include: Paspalis, Charles Darwin University, the Northern Territory Government and the Australian Government (through the Incubator Support initiative).\nThe hub currently has 35 companies operating from its premises, and 150 individual members."
+    },
+    {
+        "location": {
+            "latitude": -12.37,
+            "longitude": 130.866
+        },
+        "category": "Charles Darwin University",
+        "name": "Advanced Manufacturing Alliance (AMA)",
+        "details": "Foundation Partners: Charles Darwin University and SPEE3D, a 3D printer developer. Other partners include: Zenith Tecnica, Axiom Precision Manufacturing, and Fuel Calibration Systems. The Northern Territory Government provided a grant of $400,000 towards the development of the AMA which has attracted externally funded projects valued at over $5 million since 2017."
+    },
+    {
+        "location": {
+            "latitude": -12.372,
+            "longitude": 130.868
+        },
+        "category": "Charles Darwin University",
+        "name": "Central Australia Academic Health Science Centre (AHSC)",
+        "details": "Partners include: Charles Darwin University, Menzies School of Health Research, Flinders University, Baker Heart and Diabetes Institute, Central Australia Health Service, Aboriginal Medical Services Alliance Northern Territory, Central Australian Aboriginal Congress Aboriginal Corporation, Ngaanyatjarra Health Service."
+    },
+    {
+        "location": {
+            "latitude": -12.371,
+            "longitude": 130.868
+        },
+        "category": "Charles Darwin University",
+        "name": "Darwin Academic Campus",
+        "details": "Partners include: Charles Darwin University, Menzies School of Health Research, the National Critical Care and Trauma Response Centre, Darwin Private Hospital, Flinders University, Top End Health Services, NT Department of Health."
+    },
+    {
+        "location": {
+            "latitude": -28.071,
+            "longitude": 153.415
+        },
+        "category": "Bond University",
+        "name": "Bond Business Commercialisation Centre",
+        "details": "The centre's Advisory Board includes representatives from: iQFunds, Startup Catalyst, Lutz and Associates Chartered Accountants, ECP Asset Management and Blue Sky Venture Capital."
+    },
+    {
+        "location": {
+            "latitude": -19.332,
+            "longitude": 146.756
+        },
+        "category": "James Cook University",
+        "name": "Australian Tropical Science and Innovation Precinct",
+        "details": "The precinct received $14 million from the Queensland Government."
+    },
+    {
+        "location": {
+            "latitude": -27.454,
+            "longitude": 153.014
+        },
+        "category": "Queensland University of Technology (QUT)",
+        "name": "Creative Industries Precinct",
+        "details": "The precinct commenced in 2004 with $54.5 million funded by the Australian Government ($3.1 million), Queensland Government ($17.4 million), and QUT ($34 million).\nQUT allocated $80 million in funding to expand the precinct in 2016 with the new buildings designed to shine a light on the creative process."
+    },
+    {
+        "location": {
+            "latitude": -27.454,
+            "longitude": 153.014
+        },
+        "category": "Queensland University of Technology (QUT)",
+        "name": "Science and Engineering Centre",
+        "details": "The $230 million Science and Engineering Centre was funded by the Australian Government ($75 million), Queensland Government ($35 million), Atlantic Philanthropies ($25 million) and QUT ($95 million). \nThe Centre opened in 2013."
+    },
+    {
+        "location": {
+            "latitude": -27.498,
+            "longitude": 153.01
+        },
+        "category": "University of Queensland",
+        "name": "Queensland Alliance for Agriculture and Food Innovation",
+        "details": "The alliance is formed from the combined scientific expertise of researchers from the University of Queensland and the Queensland Government."
+    },
+    {
+        "location": {
+            "latitude": -26.716,
+            "longitude": 153.06
+        },
+        "category": "University of the Sunshine Coast",
+        "name": "Innovation Centre Sunshine Coast",
+        "details": "The Innovation Centre Sunshine Coast (IC) is located at the University of the Sunshine Coast campus and provides a major hub for innovators, researchers, entrepreneurial start ups and high growth companies."
+    },
+    {
+        "location": {
+            "latitude": -26.743,
+            "longitude": 153.113
+        },
+        "category": "University of the Sunshine Coast",
+        "name": "Sunshine Coast Health and Medical Precinct",
+        "details": "The precinct includes the Sunshine Coast University Hospital and Sunshine Coast University Private Hospital, together with the adjacent Oceanside Health Hub."
+    },
+    {
+        "location": {
+            "latitude": -16.921,
+            "longitude": 145.778
+        },
+        "category": "James Cook University (JCU)",
+        "name": "Cairns Innovation Centre",
+        "details": "JCU, the Queensland Government and the Australian Government are each providing $10 million to the development of the $30 million centre in the Cairns CBD."
+    },
+    {
+        "location": {
+            "latitude": -16.913,
+            "longitude": 145.77
+        },
+        "category": "James Cook University (JCU)",
+        "name": "Cairns Tropical Enterprise Centre (CTEC)",
+        "details": "CTEC will house a multi-disciplinary centre for applied technology and enterprise, located in the Cairns University Hospital Precinct."
+    },
+    {
+        "location": {
+            "latitude": -19.325,
+            "longitude": 146.759
+        },
+        "category": "James Cook University (JCU)",
+        "name": "Townsville Innovation Complex",
+        "details": "The Federal Government has committed up to $96 million from its Northern Australia Infrastructure Facility (NAIF) to develop the landmark Technology Innovation Complex at JCU's Townsville campus."
+    },
+    {
+        "location": {
+            "latitude": -19.323,
+            "longitude": 146.76
+        },
+        "category": "James Cook University (JCU)",
+        "name": "Townsville Knowledge Precinct",
+        "details": "The development of the precinct is outlined in the JCU Townsville Campus Master Plan 2017-2065.\nKey partners include the Townsville Hospital and Health Service."
+    },
+    {
+        "location": {
+            "latitude": -27.602,
+            "longitude": 151.932
+        },
+        "category": "University of Southern Queensland",
+        "name": "Agricultural Science and Engineering Precinct",
+        "details": "The precinct will cost $10 million and expand on existing capability at the University of Southern Queensland Toowoomba campus. Grains Research and Development Corporation (GRDC) is co investing in the precinct."
+    },
+    {
+        "location": {
+            "latitude": -26.717,
+            "longitude": 153.063
+        },
+        "category": "University of the Sunshine Coast",
+        "name": "Sunshine Coast Business and Technology Precinct",
+        "details": "The precinct development will cost $13 million to provide a multi-use site."
+    },
+    {
+        "location": {
+            "latitude": -28.168,
+            "longitude": 153.518
+        },
+        "category": "Southern Cross University",
+        "name": "Digital Enterprise Lab",
+        "details": "The Digital Enterprise Lab is based at the Gold Coast campus and is part of the Gold Coast Airport Precinct. It is a hub for research, experimentation and educational focus on digital technology driven innovations.\nPartners include: Gold Coast Airport Limited, Salesforce, Huawei Technologies, TAFE Queensland and Destination North Coast.\n"
+    },
+    {
+        "location": {
+            "latitude": -27.495,
+            "longitude": 153.029
+        },
+        "category": "",
+        "name": "Ecosciences Precinct",
+        "details": "The precinct co-locates staff from relevant Queensland Government agencies; CSIRO; and University of Queensland, Queensland University of Technology and Griffith University —through the Queensland Alliance for Agriculture and Food Innovation (QAAFI)."
+    },
+    {
+        "location": {
+            "latitude": -27.558,
+            "longitude": 153.043
+        },
+        "category": "",
+        "name": "Health and Food Sciences Precinct (Coopers Plains)",
+        "details": "The precinct hosts 190 scientists from the Department of Agriculture, Fisheries and Forestry, CSIRO, and The University of Queensland through the Queensland Alliance for Agriculture and Food Innovation. Another 550 people are co-located on the Queensland Health Forensic and Scientific Services campus.\nCo-locating these researchers makes better use of resources and expertise and is helping to foster new ideas. The precinct also offers a pathway for industry and agribusinesses to access a wide range of relevant research and diagnostic solutions in one location."
+    },
+    {
+        "location": {
+            "latitude": -27.449,
+            "longitude": 153.027
+        },
+        "category": "",
+        "name": "Herston Health Precinct",
+        "details": "World class skills development and simulation service provides hands on clinical training throughout Queensland. With 13 000 staff and students on site, The site is Queensland's largest undergraduate and postgraduate healthcare training centre for medical, nursing, allied health and associated professions.\nMetro North Hospital and Health Service is a major partner in the precinct. The site has attracted partnerships between Metro North Hospital and Health Service, the University of Queensland, Queensland University of Technology, QIMR Berghofer, and the CSIRO's Australian e-Health Research Centre.\nThe site houses the University of Queensland’s Faculty of Health and Behavioural Sciences, Faculty of Medicine, School of Public Health, School of Dentistry and industry-funded research centres. \nQUT also operates four Professorial Nursing Units at Royal Brisbane and Women’s Hospital in the areas of cancer nursing, intensive care, renal nursing and neuroscience with several joint appointments and higher degree research students."
+    },
+    {
+        "location": {
+            "latitude": -27.446,
+            "longitude": 153.03
+        },
+        "category": "",
+        "name": "Australian e Health Research Centre",
+        "details": "The Australian e-Health Research Centre (AEHRC) is a joint venture between the CSIRO and the Queensland Government."
+    },
+    {
+        "location": {
+            "latitude": -27.61,
+            "longitude": 152.754
+        },
+        "category": "",
+        "name": "Ipswich Innovation Hub - Firestation 101",
+        "details": "Fire Station 101 is the Ipswich Innovation Hub, with partners including: Accenture, Cisco, Amazon Web Services, Microsoft BizSpark and Reeko. Tenants include creative industries, services, technology and ICT firms."
+    },
+    {
+        "location": {
+            "latitude": -27.497,
+            "longitude": 153.01
+        },
+        "category": "",
+        "name": "Queensland Bioscience Precinct (QBP)",
+        "details": "Major partners include: CSIRO, University of Queensland and Department of Agriculture Forestry and Fisheries, through the Queensland Alliance for Agriculture and Food Innovation (QAAFI)."
+    },
+    {
+        "location": {
+            "latitude": -27.528,
+            "longitude": 152.911
+        },
+        "category": "",
+        "name": "Queensland Centre for Advanced Technologies",
+        "details": "The centre is a collaboration between CSIRO and the Queensland Government.\nOther partners include: Defence Science and Technology Group, BHP Billiton, Rio Tinto, GeoTek Solutions, Cutting Edge Technology Pty Ltd and Applied Mining Technologies Pty Ltd.\n"
+    },
+    {
+        "location": {
+            "latitude": -27.498,
+            "longitude": 153.031
+        },
+        "category": "",
+        "name": "Translational Research Institute (TRI)",
+        "details": "TRI is supported by a grant from the Australian Government ($140 million); and funding from the Queensland Government ($107 million); Queensland University of Technology ($25 million); and the University of Queensland ($10 million).\nTRI is a proprietary limited company with four shareholders who provide the bulk of the 800 staff in the facility: Queensland Health, Queensland University of Technology, the University of Queensland and Mater Medical Research."
+    },
+    {
+        "location": {
+            "latitude": -27.458,
+            "longitude": 153.034
+        },
+        "category": "",
+        "name": "The Precinct",
+        "details": "The Precinct, located in Brisbane's Fortitude Valley, brings together Queensland start ups, incubators, investors and mentors under the one roof. The Precinct is supported by a $6 million capital investment from the Queensland Government. Foundation tenants include: River City Labs, CSIRO's Data 61, eHealth Queensland, Softbank Technologies, the Open Data Institute of Queensland, One Ventures, R&R Strategic, CyberLabs, ClipChamp, Find-Me, Airway Medical Innovations, Myriad, the Office of the Queensland Chief Entrepreneur, and the University of Queensland."
+    },
+    {
+        "location": {
+            "latitude": -27.963,
+            "longitude": 153.381
+        },
+        "category": "",
+        "name": "Gold Coast Health and Knowledge Precinct",
+        "details": "Partners and capital investment providers include: Griffith University ($550 million), Menzies Health Institute Queensland ($149 million), Griffith Business School ($35.5 million), Griffith University Science Engineering and Architecture Building ($29 million), Gold Coast University Hospital ($1.76 billion), Gold Coast Private Hospital ($230 million), and Athletes Village, Commonwealth Games ($550 million)."
+    },
+    {
+        "location": {
+            "latitude": -27.68,
+            "longitude": 152.903
+        },
+        "category": "",
+        "name": "Greater Springfield Precinct Development",
+        "details": "Investment in the precinct to date has totalled $13.6 billion, with an estimated $85 billion price on completion. The development will include a 52 hectare health precinct, an 18 hectare education precinct including the University of Southern Queensland and TAFE, 2.6 million square meters of mixed use commercial space, and a retail and residential development."
+    },
+    {
+        "location": {
+            "latitude": -21.146,
+            "longitude": 149.186
+        },
+        "category": "",
+        "name": "Mackay Open Innovation Community",
+        "details": "The Queensland Government is piloting a Mackay Open Innovation Community of mining equipment, technology and services (METS) companies, Bowen Basin mining companies and researchers that will be focussed on addressing the specific challenges of Bowen Basin miners."
+    },
+    {
+        "location": {
+            "latitude": -27.468,
+            "longitude": 153.03
+        },
+        "category": "",
+        "name": "METS Ignited Bowen Basin Cluster Program",
+        "details": "The Bowen Basin Cluster Program is a joint initiative of METS Ignited and Queensland Government supporting the development of industry clusters."
+    },
+    {
+        "location": {
+            "latitude": -34.92,
+            "longitude": 138.606
+        },
+        "category": "University of Adelaide",
+        "name": "Roseworthy Research and Innovation Precinct",
+        "details": "Partners include: University of Adelaide, TAFE SA, Department of Primary Industries and Regions SA, South Australian Research and Development Institute, Pig and Poultry Production Institute, Livestock Systems Alliance, Pork CRC, Poultry CRC, Beef CRC, Australian Grain Technologies Pty Ltd."
+    },
+    {
+        "location": {
+            "latitude": -34.97,
+            "longitude": 138.637
+        },
+        "category": "University of Adelaide",
+        "name": "Waite Research Precinct",
+        "details": "Partners include: University of Adelaide, CSIRO, South Australian Research and Development Institute (SARDI), Australian Wine Research Institute, Adelaide Glycomics, Arris, Australian Grain Technologies Pty Ltd, Australian Plant Phenomics Facility, Food South Australia, South Australian Food Innovation Centre, Waite Research Institute, Wine Innovation Cluster."
+    },
+    {
+        "location": {
+            "latitude": -34.921,
+            "longitude": 138.606
+        },
+        "category": "University of Adelaide",
+        "name": "ThincLab Innovation Hub",
+        "details": "Partners include: University of Adelaide, multiple SMEs and start ups, Commonwealth Bank of Australia. \nThe University of Adelaide invested $4.4 million in the hub in 2017."
+    },
+    {
+        "location": {
+            "latitude": -34.932,
+            "longitude": 138.591
+        },
+        "category": "University of South Australia",
+        "name": "City West Innovation Precinct",
+        "details": "Groups include: Match Studio and the Australian Centre for Business Growth.\nPartners include: State Government of South Australia and the ANZ Bank.\n"
+    },
+    {
+        "location": {
+            "latitude": -34.92,
+            "longitude": 138.606
+        },
+        "category": "University of Adelaide",
+        "name": "North Terrace Research and Innovation Precinct",
+        "details": "Partners include: University of Adelaide, Defence Science Technology Group, Trajan, CSIRO."
+    },
+    {
+        "location": {
+            "latitude": -34.918,
+            "longitude": 138.605
+        },
+        "category": "University of Adelaide",
+        "name": "Additive Manufacturing Applied Research Network",
+        "details": "The South Australian Government provided $1.4 million to establish the network.\nPartners include: University of Adelaide's Institute for Photonics and Advanced Sensing, Optofab Australian National Fabrication Facility, the Stretton Centre and CSIRO's Lab22."
+    },
+    {
+        "location": {
+            "latitude": -33.029,
+            "longitude": 137.544
+        },
+        "category": "University of South Australia",
+        "name": "Whyalla Innovation and Collaboration",
+        "details": "In 2019, a spoke of the Adelaide Innovation & Collaboration Centre will be opened in Whyalla on the UniSA Campus in partnership with the Whyalla City Council."
+    },
+    {
+        "location": {
+            "latitude": -35.024,
+            "longitude": 138.571
+        },
+        "category": "Flinders University",
+        "name": "Flinders University Urban Village (Bedford Park Campus)",
+        "details": "Partners include: Flinders University, Southern Adelaide Local Health Network, Flinders Medical Centre and the South Australian Government."
+    },
+    {
+        "location": {
+            "latitude": -34.92,
+            "longitude": 138.587
+        },
+        "category": "",
+        "name": "Adelaide BioMed City (ABMC)",
+        "details": "ABMC represents an estimated investment of $3.6 billion in infrastructure, accommodating more than 15 000 people. \nPartners include: Royal Adelaide Hospital/CAHLN, South Australian Health and Medical Research Institute (SAHMRI), University of Adelaide, University of South Australia, Flinders University.\nThe University of South Australia Cancer Research Institute (UniSACRI) costing $247 million, was opened in 2018 housing the largest cohort of cancer researchers ever assembled in South Australia."
+    },
+    {
+        "location": {
+            "latitude": -34.925,
+            "longitude": 138.605
+        },
+        "category": "",
+        "name": "Defence SA",
+        "details": "Partners include: the Capability Acquisition and Sustainment Group, the Defence Science and Technology Group, the Department of Defence, the Royal Australian Navy, Australian Army, Royal Australian Air Force, South Australian Department of State Development, Immigration South Australia, the South Australian Defence Teaming Centre, the Australian Aerospace Alliance, the Air Warfare Destroyer Alliance and Australian Made Defence."
+    },
+    {
+        "location": {
+            "latitude": -34.715,
+            "longitude": 138.645
+        },
+        "category": "",
+        "name": "Edinburgh Defence Precinct",
+        "details": "This is a key national defence research, manufacturing and sustainment hub, housing RAAF Base Edinburgh (including its training and testing facilities), the Defence Science and Technology Group and major defence companies including BAE Systems Australia, Lockheed Martin Australia, Airbus Group Australia, Raytheon Australia, CAE Australia and Meggitt Training Systems."
+    },
+    {
+        "location": {
+            "latitude": -34.969,
+            "longitude": 138.638
+        },
+        "category": "",
+        "name": "Food South Australia",
+        "details": "Food South Australia membership is open to food manufacturers, processors, producers and service providers currently providing products or services to the South Australian food industry. \nOver 250 firms are part of the organisation."
+    },
+    {
+        "location": {
+            "latitude": -34.813,
+            "longitude": 138.62
+        },
+        "category": "",
+        "name": "Technology Park Adelaide (Mawson Lakes)",
+        "details": "The park was founded in 1982. It is managed by the South Australian Government, with heavy engagement from the University of South Australia.\nOver 100 organisations are located at the park ranging from large multinationals such as Lockheed Martin, BAE Systems and SAAB, to start ups.\nUniSA's Future Industries Institute (FII) is deeply engaged with industry, working to build economic growth through innovation and industry partnership."
+    },
+    {
+        "location": {
+            "latitude": -34.789,
+            "longitude": 138.507
+        },
+        "category": "",
+        "name": "Techport Australia",
+        "details": "Developed by the South Australian Government. Ownership will be transferred to Australian Naval Infrastructure Pty Ltd.\nTechport is home to some of Australia's leading maritime companies, including anchor tenant ASC, Raytheon Australia, Babcock, PMB Defence (formerly Pacific Marine Batteries) and Ferrocut.\n"
+    },
+    {
+        "location": {
+            "latitude": -35.009,
+            "longitude": 138.571
+        },
+        "category": "",
+        "name": "Tonsley Innovation District",
+        "details": "The South Australian Government provides ongoing staffing support to the precinct. Initiating funding included: $120 million from Flinders University's School of Computer Science, Engineering & Mathematics; $30 million from the South Australia Government's State Drill Core Reference Library. \nOther partners include: Siemens, ZEN Energy Systems, Hills Innovation Centre, Micro-X, Simulation Australasia, TAFE SA, Onshore Petroleum Centre of Excellence, Innovyz."
+    },
+    {
+        "location": {
+            "latitude": -34.921,
+            "longitude": 138.609
+        },
+        "category": "",
+        "name": "Lot Fourteen",
+        "details": "Early anchor tenant at Lot Fourteen is the University of Adelaide's Australian Institute of Machine Learning who will join the new neighbourhood in 2019 along with the just launched Office of the South Australian Chief Entrepreneur and FIXE (Future Industries Exchange for Entrepreneurship) start-up hub. \nOther early tenants of the neighbourhood include: Chamonix, Myriota, Daitum."
+    },
+    {
+        "location": {
+            "latitude": -34.925,
+            "longitude": 138.605
+        },
+        "category": "",
+        "name": "South Australia Land Systems Precinct",
+        "details": "The Department of Defence is partnering with industry to deliver the precinct, which will integrate the people, systems and infrastructure needed to optimise the Army's land combat system. The precinct will co-locate build, integration, sustainment, upgrade and optimisation activities, and provide space for small business suppliers and common-use testing facilities. "
+    },
+    {
+        "location": {
+            "latitude": -41.401,
+            "longitude": 147.12
+        },
+        "category": "University of Tasmania",
+        "name": "Australian Maritime College",
+        "details": "The Australian Maritime College (AMC) at the University of Tasmania is the national institute for maritime education training and research and a strategic partner in the Naval Shipbuilding College. "
+    },
+    {
+        "location": {
+            "latitude": -42.886,
+            "longitude": 147.336
+        },
+        "category": "University of Tasmania",
+        "name": "Institute for Marine & Antarctic Sciences (IMAS)",
+        "details": "Located next to the CSIRO on the Salamanca waterfront, in Hobart, the IMAS building houses the Integrated Ocean Observing System, the Southern Ocean Observing System and the Antarctic Climate and Ecosystems CRC, making it Australia’s centre for Antarctic and Southern Ocean research."
+    },
+    {
+        "location": {
+            "latitude": -42.878,
+            "longitude": 147.329
+        },
+        "category": "University of Tasmania",
+        "name": "Medical Science Precinct",
+        "details": "A total of $148 million in investment was provided to develop the precinct, coming from Department of Health and Ageing, Tasmanian State Government, the University of Tasmania and philanthropic organisations including Atlantic Philanthropies and The Select Foundation."
+    },
+    {
+        "location": {
+            "latitude": -41.428,
+            "longitude": 147.141
+        },
+        "category": "University of Tasmania",
+        "name": "Centre for Food innovation",
+        "details": "Science collaboration with Australian Government's Defence Science and Technology Group and CSIRO."
+    },
+    {
+        "location": {
+            "latitude": -42.88,
+            "longitude": 147.331
+        },
+        "category": "University of Tasmania",
+        "name": "The Hedberg",
+        "details": "$96 million investment by the University of Tasmania to contribute to Tasmania's creative industries."
+    },
+    {
+        "location": {
+            "latitude": -42.882,
+            "longitude": 147.329
+        },
+        "category": "",
+        "name": "Tasmanian Polar Network (TPN)",
+        "details": "The TPN was incorporated in 1999 as an independent body and supports the Antarctic research effort. The TPN receives funding and secretariat support from the Antarctic Tasmania unit in the Tasmanian Department of State Growth."
+    },
+    {
+        "location": {
+            "latitude": -42.881,
+            "longitude": 147.329
+        },
+        "category": "",
+        "name": "Fermentasmania",
+        "details": "Scoping studies for a Fermentation Centre have been funded by the Tasmanian Government, University of Tasmania and the Northern Tasmania Development Corporation.\nGroups represented on the Fermentasmania Board include: Harvest Launceston, Food Innovation Australia Limited, and R&D consultancy RDS Partners.\n"
+    },
+    {
+        "location": {
+            "latitude": -38.143,
+            "longitude": 144.359
+        },
+        "category": "Deakin University",
+        "name": "Geelong Future Economy Precinct",
+        "details": "Partners in the 540 hectare precinct include: Deakin University, Epworth Hospital and Marcus Oldham College.\nExisting and planned facilities at Deakin University include: $55 million Centre for Advanced Design in Engineering Training (CADET), $34 million Carbon Nexus Carbon Fibre Research Centre, Institute for Intelligent Systems Research, ManuFutures, a $20 million microgrid research and education infrastructure platform, an emerging food and sustainability precinct, the CSIRO Manufacturing hub and the Institute for Frontier Materials. Key partners include: CSIRO, Carbon Revolution, Quickstep, HeiQ Australia, and AusNet Services."
+    },
+    {
+        "location": {
+            "latitude": -37.563,
+            "longitude": 143.856
+        },
+        "category": "Federation University Australia",
+        "name": "Federation University Technology Park",
+        "details": "The park has over forty tenants, including: IBM, Serco, Ballarat Health Services, St John of God Healthcare, Runway Ballarat (an Entrepreneurial business incubator which also offers co-working and MIT Maker space), the Emergency Services Telecommunications Authority, State Revenue Office, Concentrix, Argus Healthcare, Primary Health Care, and Fiona Elsey Cancer Research. The park has over $100 million in capital assets, and hosts economic activity that generates over $300 million in regional economic activity annually."
+    },
+    {
+        "location": {
+            "latitude": -38.24,
+            "longitude": 146.422
+        },
+        "category": "Federation University Australia",
+        "name": "Gippsland High Tech Precinct",
+        "details": "Federation University has developed a business case for the precinct.\nPartners include: City of Latrobe (Morwell), Federation University, Federation Training, the LaTrobe Valley Authority and the Victorian State Government - which has committed $17 million to construction."
+    },
+    {
+        "location": {
+            "latitude": -37.72,
+            "longitude": 145.048
+        },
+        "category": "La Trobe University",
+        "name": "La Trobe University Research and Innovation Precinct",
+        "details": "Occupying 48 hectares of land on La Trobe's Bundoora campus, the precinct accommodates a number of research and commercial organisations, including: Centre for Agribioscience (AgriBio), Rio Tinto, Walter and Eliza Hall Institute, CANN Group Limited, Solvay, Cannatrek, Wintermute Biomedical, Geneworks, SensaData, Vivazome, NorthLink, Photon Systems Instruments (PSI) and the collaborative library and information management consortium, CAVAL."
+    },
+    {
+        "location": {
+            "latitude": -37.812,
+            "longitude": 144.974
+        },
+        "category": "University of Melbourne",
+        "name": "Melbourne Biomedical Precinct",
+        "details": "The precinct, next to Melbourne's CBD, is home to Australia’s largest pharmaceutical company, and over 30 major hospitals, health research institutes, and medical training institutions, including: University of Melbourne, Monash University, CSIRO, CSL Limited, The Royal Melbourne Hospital, The Royal Children's Hospital, The Royal Women's Hospital, St Vincent's Hospital, the Peter Doherty Institute, the Florey Institute, Murdoch Children's Research Institute, the Bio21 Institute, and the Walter and Eliza Hall Institute.\nThere has been over $5 billion in private and public investments in recent years."
+    },
+    {
+        "location": {
+            "latitude": -37.91,
+            "longitude": 145.136
+        },
+        "category": "Monash University",
+        "name": "Monash Technology Precinct ",
+        "details": "The precinct houses major anchor tenants, including: Monash University, the Australian Synchrotron, CSIRO's largest site in Victoria, the Melbourne Centre for Nanofabrication, the Victorian Heart Hospital, the Monash Children's Hospital, the Monash Medical Centre.\nHigh priority investments in the Precinct are on the way. They include: $543 million for a new Victorian Heart Hospital; $520 million for the Australian Synchrotron; $475 million commitment from Federal Government for heavy rail; $3 million commitment from the Victorian Government for light rail; $5 billion pledge from the Victorian Government for a suburban rail; $45 million for the redevelopment of the Alexander Theatre; over $4 million for a new Advanced Biotechnology Manufacturing Platform; and $1.5 million for Biobanking Victoria."
+    },
+    {
+        "location": {
+            "latitude": -37.91,
+            "longitude": 145.131
+        },
+        "category": "Monash University",
+        "name": "Food Innovation Centre (FIC)",
+        "details": "The FIC is operated by experts working collaboratively with industry and researchers to discover opportunities together, create design criteria aided by consumers to answer a specific innovation need, confirm with a range of rapid testing and prototyping the key deliverables of our offer, and support partners to develop and launch an innovative solution."
+    },
+    {
+        "location": {
+            "latitude": -37.905,
+            "longitude": 145.131
+        },
+        "category": "Monash University",
+        "name": "Australian Manufacturing and Materials Precinct",
+        "details": "Major partners include: Monash University, CSIRO, and the Australian Synchotron.\nThe Australian Advanced Manufacturing Council is located at Clayton with members including Boeing, CSL, Dow Chemical, Northrop Grumman and Cochlear.\n"
+    },
+    {
+        "location": {
+            "latitude": -37.92,
+            "longitude": 145.125
+        },
+        "category": "Monash University",
+        "name": "Monash Health Translation Precinct (MHTP)",
+        "details": "MHTP is a partnership between Monash Health, Monash University and the Hudson Institute of Medical Research.\nThe precinct is built around an $84 million Translational Research Facility. The Australian Government provided $71 million for the development of this facility."
+    },
+    {
+        "location": {
+            "latitude": -37.804,
+            "longitude": 144.964
+        },
+        "category": "Royal Melbourne Institute of Technology (RMIT)",
+        "name": "Advanced Manufacturing Precinct",
+        "details": "Partners include Stryker, the Innovative Manufacturing CRC, Lockheed Martin, Arconic, the Swiss technology company RUAG, the Defence Science and Technology Group and Siemens.\n$8.35 million was provided by the Australian Government's Training Infrastructure Investment for Tomorrow program."
+    },
+    {
+        "location": {
+            "latitude": -37.822,
+            "longitude": 145.039
+        },
+        "category": "Swinburne University of Technology",
+        "name": "Swinburne Innovation Precinct",
+        "details": "The Swinburne Innovation Precinct incorporates Factory of the Future, the Victorian Industry 4.0 SME Hub, the National Industry 4.0 Testlab, the Siemens Mindsphere Centre for Australia, DXC Digital Transformation Centre, the Amazon Web Services (AWS) Cloud Innovation Centre, Swinburne Innovation Hub (The Fire Station), Design Factory Melbourne, Digital Innovation Lab and the Advanced Technologies Centre."
+    },
+    {
+        "location": {
+            "latitude": -37.759,
+            "longitude": 144.815
+        },
+        "category": "Victoria University",
+        "name": "Western Centre for Health, Research and Education (CHRE)",
+        "details": "Partners include: Western Health, Australian Institute for Musculoskeletal Science, the University of Melbourne and Victoria University's Institute for Health and Sport."
+    },
+    {
+        "location": {
+            "latitude": -37.793,
+            "longitude": 144.899
+        },
+        "category": "Victoria University",
+        "name": "Sport, Exercise and Active Living Precinct",
+        "details": "Partners include: Western Bulldogs, Western Bulldogs Community Foundation, Defence Science and Technology Group Tennis Australia/VU Game Insight Group (GIG), Sport Australia and Maribyrnong College."
+    },
+    {
+        "location": {
+            "latitude": -37.889,
+            "longitude": 144.67
+        },
+        "category": "Victoria University",
+        "name": "Werribee Infrastructure Innovation Hub",
+        "details": "Partners include: John Holland Construction Training Centre, Fire Testing Facilities - Australian Research Council, and the Victoria University Institute for Sustainable Industries and Liveable Cities."
+    },
+    {
+        "location": {
+            "latitude": -37.793,
+            "longitude": 144.9
+        },
+        "category": "Victoria University",
+        "name": "Footscray Learning Precinct",
+        "details": "Partners include: Victoria University, The Mitchell Institute Maribyrnong City Council, and the Victorian Department of Education and Training."
+    },
+    {
+        "location": {
+            "latitude": -37.557,
+            "longitude": 143.843
+        },
+        "category": "Australian Catholic University",
+        "name": "Ballarat Health and Knowledge Precinct",
+        "details": "The precinct project is in the planning stage.\nThe core of the future precinct will include Ballarat Health Services, St John of God Hospital Ballarat, and the Australian Catholic University Aquinas Campus.\n"
+    },
+    {
+        "location": {
+            "latitude": -37.799,
+            "longitude": 144.964
+        },
+        "category": "University of Melbourne",
+        "name": "Melbourne Connect",
+        "details": "Melbourne Connect will bring together interdisciplinary researchers, students, industry, entrepreneurs, government and the community to find innovative solutions to the global problems. Anchored by the University of Melbourne, capital investment of more than $450 million has been provided via a partnership between the University and an industry consortium led by Lendlease (including GIC, Urbannest and Spotless).\nStrong initial interest in Melbourne Connect tenancy has been expressed to date from a multinational IT company R&D team an R&D focused internet network and services provider; an Australian research organisation focusing on e-health; a major financial organisation; and a not-for-profit communications provider specialising in education and cultural sectors."
+    },
+    {
+        "location": {
+            "latitude": -37.794,
+            "longitude": 144.9
+        },
+        "category": "Victoria University",
+        "name": "Health Hub",
+        "details": "Partners include: Victoria University, the Victorian Department of Health, and Western Health."
+    },
+    {
+        "location": {
+            "latitude": -37.752,
+            "longitude": 144.797
+        },
+        "category": "Victoria University ",
+        "name": "St Albans Campus Precinct",
+        "details": "Expressions of Interest are being sought from potential partners to develop industry, government, research and community collaborations that complement Victoria University's activities and research partnerships with the health and aged care sectors."
+    },
+    {
+        "location": {
+            "latitude": -37.827,
+            "longitude": 147.626
+        },
+        "category": "",
+        "name": "East Gippsland Food Cluster",
+        "details": "The East Gippsland Food Cluster Inc. is a not-for-profit organisation financed by members, the East Gippsland Shire Council and the Victorian Government, and has operated since April 2011.\nAssociate members include: GBS Recruitment, Dyers Distribution, and PrimeSuper."
+    },
+    {
+        "location": {
+            "latitude": -37.804,
+            "longitude": 144.962
+        },
+        "category": "",
+        "name": "Melbourne Innovation Districts",
+        "details": "The Melbourne Innovation Districts (MID) partnership was formed in 2017 by the City of Melbourne, RMIT University, and the University of Melbourne. \nIts aim is to catalyse an urban innovation district in the area immediately north of Melbourne’s CBD, where 21 per cent of Melbourne's knowledge workers are located. The area north of the CBD is home to the University of Melbourne, RMIT, Queen Victoria Market, State Library of Victoria, Royal Exhibition Buildings, Melbourne Biomedical Precinct, and Melbourne Museum.\nThe MID partners will work together to attract more small businesses, start ups and social enterprises to the area, and provide more opportunities for Melbourne's knowledge workers to connect and collaborate."
+    },
+    {
+        "location": {
+            "latitude": -37.909,
+            "longitude": 145.131
+        },
+        "category": "",
+        "name": "Food Innovation Centre ",
+        "details": "The Food Innovation Centre is a CSIRO initiative in Werribee built around a $50 million pilot plant.\nThe Food and Agribusiness Growth Centre, Food Innovation Australia Limited, is co located with the centre."
+    },
+    {
+        "location": {
+            "latitude": -38.151,
+            "longitude": 144.36
+        },
+        "category": "",
+        "name": "G21 Geelong Region Alliance",
+        "details": "As a not-for-profit organisation, the majority of G21's financial support comes from the five municipal council members, its broader membership base, and occasional government or community foundation grants. Geelong Manufacturing Council participates in G21.\nMembers of the Economic Development Pillar include: Australian Sports Technologies Network, BioGeelong, Engineering Network Geelong, Geelong Food Co-Products Cluster, G21 Agribusiness Forum and ICT Geelong."
+    },
+    {
+        "location": {
+            "latitude": -38.117,
+            "longitude": 144.358
+        },
+        "category": "",
+        "name": "Pivot City Innovation District",
+        "details": "Hamilton Group"
+    },
+    {
+        "location": {
+            "latitude": -38.036,
+            "longitude": 145.196
+        },
+        "category": "",
+        "name": "South East Melbourne Manufacturing Alliance (SEMMA)",
+        "details": "SEMMA is a peak industry group representing more than 200 leading manufacturers based in South East Melbourne. Key partners: Knox City Council, Kingston City Council, and City of Greater Dandenong."
+    },
+    {
+        "location": {
+            "latitude": -37.819,
+            "longitude": 144.95
+        },
+        "category": "",
+        "name": "Victorian Cyber Security and Innovation Centre",
+        "details": "Based in the Docklands' Goods shed, the Centre houses CSIRO’s Data61 and: a collaboration with Oxford University’s Global Cyber Security Capacity Centre; Victoria’s new Oceania Cyber Security Centre, bringing together eight Victorian universities and major private sector partners; Deakin University and Dimension Data?s cyber security start up accelerator, CyRise."
+    },
+    {
+        "location": {
+            "latitude": -37.801,
+            "longitude": 144.94
+        },
+        "category": "",
+        "name": "Arden Urban Renewal Precinct",
+        "details": "Development Victoria is developing the precinct and the Arden train station (as part of the Melbourne Metro Rail Project). The Victorian Planning Authority is undertaking planning for Arden in collaboration with the City of Melbourne and stakeholders, including other State Government agencies."
+    },
+    {
+        "location": {
+            "latitude": -37.827,
+            "longitude": 144.902
+        },
+        "category": "",
+        "name": "Fishermans Bend Employment Precinct",
+        "details": "Planning of the precinct is being led by the Fishermans Bend Development Board, which is supported by the Fishermans Bend Taskforce, comprising members from the Department of Environment, Land, Water and Planning; the Cities of Melbourne and Port Phillip; and Development Victoria.\nAn independent Ministerial Advisory Committee advises the Minister for Planning on Fishermans Bend.\n"
+    },
+    {
+        "location": {
+            "latitude": -31.751,
+            "longitude": 115.772
+        },
+        "category": "Edith Cowan University (ECU)",
+        "name": "Joondalup Innovation Hub",
+        "details": "Partners include: ECU, City of Joondalup, WA Police, and the WA Department of Jobs, Tourism, Science and Innovation."
+    },
+    {
+        "location": {
+            "latitude": -31.752,
+            "longitude": 115.772
+        },
+        "category": "Edith Cowan University (ECU)",
+        "name": "Cyber Security Centre",
+        "details": "Building on the foundations of the ECU Security Research Institute, the centre is a key partner in several national and international networks.\nECU, along with the WA Government, is a lead partner in the Cyber Security CRC which brings together 25 industry, research and government partners."
+    },
+    {
+        "location": {
+            "latitude": -31.748,
+            "longitude": 115.768
+        },
+        "category": "Edith Cowan University (ECU)",
+        "name": "ECU Business and Innovation Centre (ECUBIC)",
+        "details": "Partners include: ECU and Business Station."
+    },
+    {
+        "location": {
+            "latitude": -31.852,
+            "longitude": 115.772
+        },
+        "category": "Edith Cowan University (ECU)",
+        "name": "THE LINK",
+        "details": "Partners include: ECU, City of Joondalup, Watermark, and Fortuna Advisory Services.\nTHE LINK has 14 sponsors, three education programs, a global reach, and research and student initiatives."
+    },
+    {
+        "location": {
+            "latitude": -31.981,
+            "longitude": 115.815
+        },
+        "category": "University of Western Australia (UWA)",
+        "name": "Indian Ocean Marine Research Centre",
+        "details": "The $62 million facility builds Australia's international marine research status through stimulating innovative, collaborative research and the teaching and training of next generation researchers. Major partners include: Australian Institute of Marine Science, CSIRO, WA Department of Primary Industries and Regional Development Fisheries Division, UWA, and Woodside.\nThe Woodside FutureLab works on ocean engineering, plant processes, analytics, artificial intelligence and sensor technology to support the offshore resources industry. External partners include CSIRO, MIT, Monash University, and Curtin University. Research partners include the Centre for Offshore Foundation Systems and Centre for Offshore Floating Facilities."
+    },
+    {
+        "location": {
+            "latitude": -31.978,
+            "longitude": 115.815
+        },
+        "category": "University of Western Australia (UWA)",
+        "name": "International Centre for Radio Astronomy Research (ICRAR)",
+        "details": "ICRAR plays an integral role in the Square Kilometre Array project and is a multi-disciplinary research centre for science, engineering and data intensive astronomy.\nICRAR is a joint venture between Curtin University and UWA, with funding support from the State Government of Western Australia.\n"
+    },
+    {
+        "location": {
+            "latitude": -31.982,
+            "longitude": 115.817
+        },
+        "category": "University of Western Australia (UWA)",
+        "name": "Accelerating Learning Laboratory (ALL)",
+        "details": "ALL is an applied research center that consults to organizations and governments to create more effective workplaces. Industry partners include: Chevron, Qantas, PWC, Rio Tinto, BGC, Monadelphous, Fiona Stanley Hospital, Sir Charles Gairdner Hospital, Wesfarmers Chemicals, Energy & Fertilisers, ERGT Australia, IFAP and Work Ready."
+    },
+    {
+        "location": {
+            "latitude": -31.98,
+            "longitude": 115.815
+        },
+        "category": "University of Western Australia (UWA)",
+        "name": "Centre for Social Impact (CSI)",
+        "details": "CSI UWA is part of a national collaboration with UNSW and Swinburne University of Technology. The centre develops innovative solutions to social challenges."
+    },
+    {
+        "location": {
+            "latitude": -31.979,
+            "longitude": 115.82
+        },
+        "category": "University of Western Australia (UWA)",
+        "name": "System Health Lab",
+        "details": "The lab connects technologically curious students with industry-motivated research. Funding for the lab comes from the BHP Fellowship for Engineering for Remote Operations.\nSystem Health Lab also facilitates the Living Lab initiative, which opens UWA infrastructure to early stage companies to test and demonstrate their electronic solutions for real-world mine sites.\n"
+    },
+    {
+        "location": {
+            "latitude": -31.977,
+            "longitude": 115.817
+        },
+        "category": "University of Western Australia (UWA)",
+        "name": "Public Policy Institute",
+        "details": "The institute is a bridge between academic research and government, public and business needs, delivering real-world policy impact.\nThe institute partners with research centres to synthesise findings for government policymakers, including: Perth USAsia Centre, The Centre for Regional Development, The Centre for Muslim States and Values, and the Planning and Transport Research Centre.\n"
+    },
+    {
+        "location": {
+            "latitude": -32.515,
+            "longitude": 116.995
+        },
+        "category": "University of Western Australia (UWA)",
+        "name": "Future Farm",
+        "details": "The Future Farm 2050 Project is based at the UWA Farm Ridgefield.\nIt is an international research project to improve future farming systems. Future Farm is managed by the UWA Institute of Agriculture, which receives funding from partners that include: Department of Industry, Innovation and Science, CSIRO Synthetic Biology, Virtue Australia Foundation and the Australian Centre for International Agricultural Research."
+    },
+    {
+        "location": {
+            "latitude": -32.006,
+            "longitude": 115.889
+        },
+        "category": "Curtin University",
+        "name": "Greater Curtin Innovation Precinct",
+        "details": "Stage One of the project will deliver a revitalised central precinct, including new accommodation for students, academic buildings, research space, space for industry partners, retail, a bus transport interchange, and public spaces and amenity. Existing centres are elaborated on below. This development will be a major component of the Bentley-Curtin Specialised Activity Centre. "
+    },
+    {
+        "location": {
+            "latitude": -32.005,
+            "longitude": 115.896
+        },
+        "category": "Curtin University",
+        "name": "Centre for Crop and Disease Management (CCDM)",
+        "details": "The Centre was launched in 2014 and sits within Curtin University’s Department of Environment and Agriculture. Curtin University and the Grains Research and Development Corporation co invested $100 million in the centre over five years. A $46 million agriculture research facility was opened in 2016 to support the CCDM."
+    },
+    {
+        "location": {
+            "latitude": -32.006,
+            "longitude": 115.894
+        },
+        "category": "Curtin University",
+        "name": "Innovation Central Perth",
+        "details": "Cisco has innovation centres around the world. Innovation Central Perth is located on Curtin University's Bentley Campus. Cisco and foundation partners Curtin University and Woodside Energy committed approximately $30 million to the Centre."
+    },
+    {
+        "location": {
+            "latitude": -32.006,
+            "longitude": 115.895
+        },
+        "category": "Curtin University",
+        "name": "John de Laeter Centre",
+        "details": "A collaborative research venture involving Curtin University, the University of Western Australia, the Geological Survey of Western Australia and CSIRO. Collaboration partners include several major companies, especially from the resources sector (e.g. Rio Tinto, BHP Billiton, Chevron, Santos, and Shell)."
+    },
+    {
+        "location": {
+            "latitude": -32.006,
+            "longitude": 115.892
+        },
+        "category": "Curtin University",
+        "name": "WA Data Science Innovation Hub",
+        "details": "Curtin University and the WA State Government have co-invested $1.6 million to establish the WA Data Science Innovation Hub at Curtin University. The hub will connect industry to universities, while providing data science undergraduate and postgraduate students from all four public universities vital insights into the sector by being exposed to real-world data science opportunities and work experience placements. The hub will connect industry to universities, ensuring the transfer of knowledge across various sectors impacted by digital disruption."
+    },
+    {
+        "location": {
+            "latitude": -17.961,
+            "longitude": 122.224
+        },
+        "category": "University of Notre Dame Australia",
+        "name": "Majarlin Kimberley Centre for Remote Health (MKCRH)",
+        "details": "The University of Notre Dame Australia is leading a consortium of universities to establish the MKCRH. A major new training hub at the University's Broome Campus commenced operation in 2018 and is part of the Australian Government's Rural Health Multidisciplinary Training program."
+    },
+    {
+        "location": {
+            "latitude": -31.98,
+            "longitude": 115.817
+        },
+        "category": "University of Western Australia (UWA)",
+        "name": "EZONE",
+        "details": "The UWA Faculty of Engineering and Mathematical Sciences is building an $80 million student hub to transform the way STEM students receive education, undertake research and engage with industry, alumni and the community.\nLeading corporations including BHP Iron Ore and Woodside Energy have invested in the project."
+    },
+    {
+        "location": {
+            "latitude": -32.067,
+            "longitude": 115.835
+        },
+        "category": "Murdoch University",
+        "name": "Murdoch Health and Knowledge Precinct",
+        "details": "Request for development proposal is now open."
+    },
+    {
+        "location": {
+            "latitude": -32.159,
+            "longitude": 115.768
+        },
+        "category": "",
+        "name": "Australian Marine Complex & Marine Technology Park",
+        "details": "The complex was opened in 2003, and has received support from the Western Australian Government. A $170 million upgrade to infrastructure at the Common User Facility was completed in early 2010. The Australasian Maritime Institute is adjacent to the precinct.\nThe precinct also has connections with TAFE WA, Curtin University, University of Western Australia, Murdoch University and Edith Cowan University. The precinct includes the Marine Technology Park and Jakovich Centre."
+    },
+    {
+        "location": {
+            "latitude": -31.975,
+            "longitude": 115.817
+        },
+        "category": "",
+        "name": "BloomLab",
+        "details": "BloomLab is a start-up incubator based at St Catherine's College which provides business services to young entrepreneurs. BloomLab receives investment from Woodside, the University of Western Australia, RAC and Squire Patton Boggs."
+    },
+    {
+        "location": {
+            "latitude": -31.997,
+            "longitude": 115.89
+        },
+        "category": "",
+        "name": "Bentley-Curtin Specialised Activity Centre",
+        "details": "The Western Australian Planning Commission and the Minister for Lands have approved development of the centre to modernise and expand Technology Park Bentley WA and integrate with Curtin and other crown land.\nMajor anchoring institutions in the centre include: Pfizer, Curtin University, CSIRO and Western Australian Government agencies.\n"
+    },
+    {
+        "location": {
+            "latitude": -31.978,
+            "longitude": 115.814
+        },
+        "category": "",
+        "name": "IQX",
+        "details": "IQX is an innovation and coworking space, powered by the UWA Innovation Quarter and Business Foundations.\nIQX allows small and medium enterprises to scale-up by accessing UWA's research and graduate talent, global partner network, and commercial IP.\n"
+    },
+    {
+        "location": {
+            "latitude": -31.993,
+            "longitude": 115.885
+        },
+        "category": "",
+        "name": "National Resource Sciences Precinct (NRSP)",
+        "details": "The NRSP is part of Technology Park Bentley WA.\nPartners include: CSIRO, Curtin University, UWA, the Western Australian Energy Research Alliance (WA:ERA) (which includes industry partners Woodside, Chevron and Shell), and the Geological Survey of Western Australia.\n"
+    },
+    {
+        "location": {
+            "latitude": -31.97,
+            "longitude": 115.813
+        },
+        "category": "",
+        "name": "QEII Medical Precinct",
+        "details": "There are over 40 organisations in the precinct, including: the Ear Science Institute Australia, Harry Perkins Institute of Medical Research, Keogh Institute for Medical Research, Lions Eye Institute, Institute for Respiratory Health, Oral Health Centre, PathWest, Perron Institute, Sir Charles Gairdner Hospital, and the University of Western Australia."
+    },
+    {
+        "location": {
+            "latitude": -31.968,
+            "longitude": 115.814
+        },
+        "category": "",
+        "name": "BioZone",
+        "details": "Partners include: Orthercell, Avita Medical and Proteomics International.\nBioZone uses a transdisciplinary approach to biomedical research, combining the expertise of biologists, computational engineers, doctors and life scientists.\n"
+    },
+    {
+        "location": {
+            "latitude": -31.978,
+            "longitude": 115.811
+        },
+        "category": "",
+        "name": "Centre for Entrepreneurial Research and Innovation (CERI)",
+        "details": "CERI was established through a donation by Charlie Bass and receives funding from the Department of Jobs, Tourism, Science and Innovation. It works with researchers, helping them to develop entrepreneurial skills and innovate, with the goal of enabling them to establish a start-up company."
+    },
+    {
+        "location": {
+            "latitude": -31.968,
+            "longitude": 115.812
+        },
+        "category": "",
+        "name": "Centre for Microscopy, Characterisation and Analysis ",
+        "details": "Partners include: CSIRO (Australian Microscopy and Microanalysis Research Facility), International Atomic Energy Agency, and Western Australian Centre for Microscopy."
+    },
+    {
+        "location": {
+            "latitude": -31.943,
+            "longitude": 115.826
+        },
+        "category": "",
+        "name": "Ear Science Institute",
+        "details": "The institute is an independent not-for-profit organisation dedicated to improving ear and hearing outcomes through a patient-to-laboratory-to-patient model.\nPartners include: Cochlear, McCusker Charitable Foundation, Sonova and the Wheatley Family Foundation.\n"
+    },
+    {
+        "location": {
+            "latitude": -31.968,
+            "longitude": 115.814
+        },
+        "category": "",
+        "name": "Harry Perkins Institute of Medical Research",
+        "details": "A major initiative within the QEII Greater Medical Precinct, the 10 storey collaborative research centre focuses on cancer, cardiovascular disease and diabetes."
+    },
+    {
+        "location": {
+            "latitude": -31.967,
+            "longitude": 115.814
+        },
+        "category": "",
+        "name": "Lions Eye Institute",
+        "details": "The institute combines scientific research into the prevention and cure of blindness. \nFinancial investment is provided by organisations including: Wesfarmers, Telethon, Quadrant Energy, Santos, McCusker, Telstra and the National Health and Medical Research Council.\n"
+    },
+    {
+        "location": {
+            "latitude": -31.967,
+            "longitude": 115.813
+        },
+        "category": "",
+        "name": "Perron Institute for Neurological and Translational Science",
+        "details": "Perron Institute is Western Australia's longest established medical research institute. Perron Institute's research laboratories are connected with 15 specialist clinics. \nPartners include: the University of Western Australia and Murdoch University."
+    },
+    {
+        "location": {
+            "latitude": -31.945,
+            "longitude": 115.836
+        },
+        "category": "",
+        "name": "Telethon Kids Institute",
+        "details": "A major initiative within the QEII Greater Medical Precinct, the Telethon Kids Institute has moved into the new QEII Children's hospital in Nedlands."
+    },
+    {
+        "location": {
+            "latitude": -31.997,
+            "longitude": 115.89
+        },
+        "category": "",
+        "name": "Technology Park Bentley WA",
+        "details": "The park is governed by the State Government's Industry and Technology Development (ITD) Act (1998).\nThe Western Australian Government manages the strategic direction and operations of the park. Approximately 70 per cent of the land is privately owned."
+    },
+    {
+        "location": {
+            "latitude": -31.954,
+            "longitude": 115.854
+        },
+        "category": "",
+        "name": "The Terrace Resources Innovation Precinct",
+        "details": "Centred around St Georges Terrace in Perth, this industry-led precinct is growing organically. \nThe precinct is led by major innovation units within resources companies such as BHP’s Global Innovation HQ, Woodside's Innovation Lab, Chevron's Gas Technology Centre and multinational suppliers like Fugro. \n"
+    },
+    {
+        "location": {
+            "latitude": -31.956,
+            "longitude": 115.795
+        },
+        "category": "",
+        "name": "WaterCorp Water Research and Innovation Precinct",
+        "details": "WaterCorp is owned by the West Australian Government and manages an asset base of over $37 billion in water infrastructure. The precinct is seeking a technology partner to trial a range of treatment technologies, as well as strategic partners who are invested in boosting water sustainability."
+    },
+    {
+        "location": {
+            "latitude": -31.95,
+            "longitude": 115.787
+        },
+        "category": "",
+        "name": "Greenbatch",
+        "details": "Greenbatch is building an industrial-scale plastic recycling plant, using repurposed facilities provided by the University of Western Australia."
+    },
+    {
+        "location": {
+            "latitude": -31.954,
+            "longitude": 115.866
+        },
+        "category": "",
+        "name": "Synapse 74",
+        "details": "The initial development is supported by the WA Government and City of Perth."
+    },
+    {
+        "location": {
+            "latitude": -31.546,
+            "longitude": 115.642
+        },
+        "category": "",
+        "name": "Yanchep Innovation Precinct",
+        "details": "The WA Government has committed to establishing an innovation precinct in the Yanchep area. "
+    },
+    {
+        "location": {
+            "latitude": -31.674,
+            "longitude": 115.777
+        },
+        "category": "",
+        "name": "Neerabup",
+        "details": "The WA Government and City of Wanneroo have committed to developing this precinct."
+    }
+]
